@@ -1,0 +1,561 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jacques+Pro:ital,wght@0,400;0,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Creative+Ligatures+Demo:ital,wght@0,400&display=swap");
+@import "./assets/styles/app.css";
+
+/* Jacques Pro Font Family */
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-Thin.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-ExtraLight.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-Light.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-Regular.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-Medium.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-SemiBold.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-Bold.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jacques Pro';
+    src: url('/fonts/jacques-pro/JacquesPro-ExtraBold.woff2') format('woff2'),
+        url('/fonts/jacques-pro/JacquesPro-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Creative Ligatures Font Family */
+/* @font-face {
+    font-family: 'Creative Ligatures';
+    src: url('/fonts/creative-ligatures-font/CreativeLigaturesDemoRegular-OGrlp.otf') format('opentype'),
+        url('/fonts/creative-ligatures-font/CreativeLigaturesDemoRegular-E4gW8.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+} */
+
+/* Creative Ligatures Regular */
+@font-face {
+    font-family: 'Creative Ligatures';
+    src: url('/fonts/creative-ligatures-font/CreativeLigaturesRegular.otf') format('opentype'),
+        url('/fonts/creative-ligatures-font/CreativeLigaturesRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Creative Ligatures Italic */
+@font-face {
+    font-family: 'Creative Ligatures';
+    src: url('/fonts/creative-ligatures-font/CreativeLigaturesItalic.otf') format('opentype'),
+        url('/fonts/creative-ligatures-font/CreativeLigaturesItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@layer base {
+    :root {
+        --package-blue: 196.74 100% 45.69%;
+        --package-magenta: 325.04 100% 45.1%;
+        --package-green: 90 48.03% 49.8%;
+        --package-yellow: 54 100% 50%;
+    }
+}
+
+.jodit-status-bar-link {
+    display: none;
+}
+
+.glowConnectCard {
+    box-shadow: 0px 2px 4px 0px rgba(0, 168, 233, 0.20);
+}
+
+.glowCreateCard {
+    box-shadow: 0px 2px 4px 0px rgba(0, 168, 233, 0.20);
+}
+
+.glowCollaborateCard {
+    box-shadow: 0px 2px 4px 0px rgba(127, 188, 66, 0.20);
+}
+
+/* Hide scrollbar for slider */
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari and Opera */
+}
+
+input:focus-visible,
+textarea:focus-visible {
+    --tw-ring-offset-width: 0px !important;
+    box-shadow: none !important;
+}
+
+button {
+    box-shadow: none !important;
+    --tw-ring-offset-width: 0px !important;
+}
+
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+textarea:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0px 1000px #1a1a1a inset !important;
+    box-shadow: 0 0 0px 1000px #1a1a1a inset !important;
+    -webkit-text-fill-color: #fff !important;
+    color: #fff !important;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+@layer components {
+
+    html.light .rpv-core__viewer {
+        background-color: #fff !important;
+    }
+
+    html.dark .rpv-core__minimal-button {
+        color: #fff !important;
+    }
+
+    html.dark .rpv-toolbar__label {
+        color: #fff !important;
+    }
+
+    html.dark .rpv-zoom__popover-target-arrow {
+        border-color: #fff transparent transparent !important;
+    }
+
+    html.dark .rpv-core__viewer {
+        background-color: #323232 !important;
+    }
+
+    html.dark .rpv-core__inner-page {
+        background-color: #4b4b4b !important;
+    }
+
+    .jodit-wysiwyg {
+        color: #fff !important;
+    }
+}
+
+
+
+.CollapsibleContent {
+    overflow: hidden;
+}
+
+.CollapsibleContent[data-state="open"] {
+    animation: slideDown 300ms ease-out;
+}
+
+.CollapsibleContent[data-state="closed"] {
+    animation: slideUp 300ms ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        height: 0;
+    }
+
+    to {
+        height: var(--radix-collapsible-content-height);
+    }
+}
+
+@keyframes slideUp {
+    from {
+        height: var(--radix-collapsible-content-height);
+    }
+
+    to {
+        height: 0;
+    }
+}
+
+/* Tiptap Editor Styles */
+.tiptap {
+    outline: none;
+}
+
+.tiptap p {
+    margin: 0.5rem 0;
+}
+
+.tiptap h1,
+.tiptap h2,
+.tiptap h3,
+.tiptap h4 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.tiptap ul,
+.tiptap ol {
+    padding-left: 1.5rem;
+    margin: 0.5rem 0;
+}
+
+.tiptap li {
+    margin: 0.25rem 0;
+}
+
+.tiptap strong {
+    font-weight: 600;
+}
+
+.tiptap em {
+    font-style: italic;
+}
+
+.tiptap u {
+    text-decoration: underline;
+}
+
+.tiptap s {
+    text-decoration: line-through;
+}
+
+.tiptap mark {
+    background-color: #fef08a;
+    padding: 0.125rem 0.25rem;
+    border-radius: 0.125rem;
+}
+
+.dark .tiptap mark {
+    background-color: #854d0e;
+    color: #fef08a;
+}
+
+.tiptap code {
+    background-color: #f3f4f6;
+    padding: 0.125rem 0.25rem;
+    border-radius: 0.25rem;
+    font-family: monospace;
+    font-size: 0.875em;
+}
+
+.dark .tiptap code {
+    background-color: #374151;
+}
+
+.tiptap pre {
+    background-color: #f3f4f6;
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    margin: 0.5rem 0;
+    overflow-x: auto;
+}
+
+.dark .tiptap pre {
+    background-color: #1f2937;
+}
+
+.tiptap pre code {
+    background-color: transparent;
+    padding: 0;
+    color: inherit;
+    font-size: inherit;
+}
+
+.tiptap blockquote {
+    border-left: 4px solid #d1d5db;
+    padding-left: 1rem;
+    margin: 0.5rem 0;
+    font-style: italic;
+    color: #6b7280;
+}
+
+.dark .tiptap blockquote {
+    border-left-color: #4b5563;
+    color: #9ca3af;
+}
+
+.tiptap sup {
+    font-size: 0.75em;
+    vertical-align: super;
+}
+
+.tiptap sub {
+    font-size: 0.75em;
+    vertical-align: sub;
+}
+
+/* Task List Styles */
+.tiptap ul[data-type="taskList"] {
+    list-style: none;
+    padding-left: 0;
+}
+
+.tiptap ul[data-type="taskList"] li {
+    display: flex;
+    align-items: flex-start;
+}
+
+.tiptap ul[data-type="taskList"] li>label {
+    flex: 0 0 auto;
+    margin-right: 0.5rem;
+    user-select: none;
+}
+
+.tiptap ul[data-type="taskList"] li>label input[type="checkbox"] {
+    cursor: pointer;
+    width: 1rem;
+    height: 1rem;
+    margin-top: 0.25rem;
+}
+
+.tiptap ul[data-type="taskList"] li>div {
+    flex: 1 1 auto;
+}
+
+.tiptap p.is-editor-empty:first-child::before {
+    color: #adb5bd;
+    content: attr(data-placeholder);
+    float: left;
+    height: 0;
+    pointer-events: none;
+}
+
+/* Link Styles */
+.tiptap a {
+    color: #3b82f6;
+    text-decoration: underline;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.tiptap a:hover {
+    color: #2563eb;
+}
+
+.dark .tiptap a {
+    color: #60a5fa;
+}
+
+.dark .tiptap a:hover {
+    color: #3b82f6;
+}
+
+/* Image Styles */
+.tiptap img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    margin: 0.5rem 0;
+    display: block;
+    cursor: pointer;
+}
+
+.tiptap p:has(> img:only-child) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0.75rem 0;
+    padding: 0.375rem 0.5rem;
+    border-radius: 0.5rem;
+    background-color: rgb(243 244 246);
+}
+
+.dark .tiptap p:has(> img:only-child) {
+    background-color: rgb(31 41 55);
+}
+
+.tiptap p:has(> img:only-child) img {
+    margin: 0;
+    max-height: min(55vh, 420px);
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+
+.tiptap img.ProseMirror-selectednode {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+    cursor: nwse-resize;
+}
+
+.dark .tiptap img.ProseMirror-selectednode {
+    outline-color: #60a5fa;
+}
+
+/* Bubble Menu Styles */
+.bubble-menu {
+    position: absolute;
+    pointer-events: auto;
+    animation: bubbleMenuFadeIn 0.2s ease-in-out;
+}
+
+@keyframes bubbleMenuFadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+/* Image resize wrapper */
+.tiptap .image-resizer {
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+}
+
+.tiptap .image-resizer img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.tiptap .image-resizer.ProseMirror-selectednode {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+}
+
+.dark .tiptap .image-resizer.ProseMirror-selectednode {
+    outline-color: #60a5fa;
+}
+
+/**
+ * Blog post body images: scale to fit without cropping (object-contain behavior).
+ * Whichever axis hits the max first wins; image stays centered in the frame.
+ */
+.blog-img-prose {
+    --blog-img-max-h: min(75vh, 560px);
+}
+
+.blog-img-prose--feed {
+    --blog-img-max-h: min(40vh, 260px);
+}
+
+.blog-img-prose--detail {
+    --blog-img-max-h: min(78vh, 580px);
+}
+
+.blog-img-prose p:has(> img:only-child) {
+    width: 100%;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    padding: 0;
+}
+
+.blog-img-prose p:has(> img:only-child) img {
+    /* Uniform width, no crop, no forced letterbox frame */
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    object-fit: contain;
+    border-radius: 0.5rem;
+    display: block;
+    margin: 0;
+}
+
+.blog-img-prose p:has(> video:only-child) {
+    width: 100%;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    padding: 0;
+}
+
+.blog-img-prose p:has(> video:only-child) video {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    display: block;
+    margin: 0;
+    border-radius: 0.5rem;
+}
+
+.dark .div[role="dialog"] button svg {
+    stroke: #ffffff;
+    color: #ffffff;
+    fill: #ffffff;
+}
+
+.recharts-wrapper *:focus,
+.recharts-wrapper:focus,
+path.recharts-sector:focus,
+.recharts-pie-sector:focus,
+g:focus,
+svg:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+@media print {
+    * {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+}

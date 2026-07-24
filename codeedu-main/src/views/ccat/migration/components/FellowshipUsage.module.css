@@ -1,0 +1,405 @@
+.fellowshipUsage {
+  align-self: stretch;
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 26px 26px;
+  box-sizing: border-box;
+  gap: 30px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.fellowshipUsage,
+.usageDetails,
+.usageOverview {
+  display: flex;
+  align-items: flex-start;
+}
+.usageOverview {
+  align-self: stretch;
+  height: 54px;
+  gap: 804px;
+}
+.usageDetails {
+  width: auto;
+  flex-direction: column;
+  padding: 26px 0 0;
+  box-sizing: border-box;
+}
+.yourFellowshipUsage {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  width: max-content;
+}
+.microCreditsWrapper {
+  border-radius: 0 0 0 10px;
+  background-color: #00a8e9;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 6px 10px;
+}
+.microCredits {
+  margin: 0;
+  width: max-content;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.explorerLabelsParent,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  max-width: 100%;
+}
+.frameParent {
+  width: 1188px;
+  justify-content: space-between;
+  font-size: 26px;
+}
+.explorerLabelsParent {
+  height: 260px;
+  min-width: 464px;
+}
+.explorerLabels {
+  align-self: stretch;
+  flex: 0.8529;
+  border-radius: 10px;
+  background-color: #323232;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 34px 39px 33px 38px;
+  gap: 8px;
+}
+.travelExploreIcon {
+  width: 84px;
+  position: relative;
+  max-height: 100%;
+}
+.explorer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  text-align: center;
+}
+.forLearnersStarting {
+  width: 100%;
+  max-width: 145px;
+  position: relative;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+.explorerLabels2 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 10px;
+  background-color: #323232;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 26px;
+  gap: 20px;
+  text-align: center;
+  font-size: 35.1px;
+}
+.stageVisualWrapper {
+  width: 133px;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-align: left;
+  font-family: Poppins;
+}
+.stageVisual {
+  height: 133px;
+  width: 133px;
+  position: relative;
+}
+.stageDotOne {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #5a5a5a;
+  width: 100%;
+  height: 100%;
+}
+.stageConnector {
+  margin: 0;
+  position: absolute;
+  top: 40.2px;
+  left: 31.5px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.stageDotTwo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #7fbc42;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.travelExploreIcon2 {
+  width: 84px;
+  position: relative;
+  max-height: 100%;
+  display: none;
+  flex-shrink: 0;
+}
+.fellowshipProgress {
+  margin: 0;
+  width: 156px;
+  position: relative;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.forLearnersStarting2 {
+  width: 145px;
+  position: relative;
+  font-size: 12px;
+  display: none;
+  flex-shrink: 0;
+}
+.frameGroup {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+  min-width: 550px;
+  max-width: 100%;
+  font-size: 24px;
+}
+.frameChild,
+.rectangleParent {
+  border-radius: 10px;
+  background-color: #323232;
+}
+.rectangleParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 8px 14px 12px;
+  gap: 6px;
+  font-size: 40px;
+}
+.frameChild {
+  width: 170px;
+  height: 120px;
+  position: relative;
+  display: none;
+  flex-shrink: 0;
+}
+.assistanceValueParent {
+  width: 146px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  flex-shrink: 0;
+}
+.assistanceValue {
+  margin: 0;
+  height: 56px;
+  width: 83px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.taskAltIcon {
+  width: 28px;
+  position: relative;
+  max-height: 100%;
+  z-index: 1;
+}
+.buzzPostedAnd {
+  position: relative;
+  font-size: 12px;
+  line-height: 14px;
+  display: inline-block;
+  min-height: 34px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.achievementLabels,
+.rectangleGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.achievementLabels {
+  flex: 1;
+  gap: 20px;
+}
+.rectangleGroup {
+  align-self: stretch;
+  border-radius: 10px;
+  background-color: #323232;
+  padding: 10px 14px 14px;
+  gap: 6px;
+}
+.courseSeparator {
+  height: 56px;
+  position: relative;
+  display: inline-block;
+  min-width: 52px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.span {
+  font-size: 40px;
+}
+.courseCompleted {
+  width: 113px;
+  position: relative;
+  font-size: 12px;
+  line-height: 14px;
+  display: inline-block;
+  min-height: 34px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.rectangleContainer {
+  align-self: stretch;
+  border-radius: 10px;
+  background-color: #323232;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 10px 14px 14px;
+  gap: 6px;
+}
+.masterclassEtcAttended,
+.masterclassSeparator {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.masterclassSeparator {
+  width: 58px;
+  height: 56px;
+}
+.masterclassEtcAttended {
+  align-self: stretch;
+  font-size: 12px;
+  line-height: 14px;
+  min-height: 34px;
+}
+.achievementLabels2,
+.groupDiv {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+.groupDiv {
+  border-radius: 10px;
+  background-color: #323232;
+  padding: 10px 10px 14px 14px;
+  gap: 6px;
+}
+.b,
+.mentoringSessionsCompleted {
+  position: relative;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.b {
+  width: 63px;
+  height: 56px;
+  display: inline-block;
+}
+.mentoringSessionsCompleted {
+  font-size: 12px;
+}
+@media screen and (max-width: 1225px) {
+  .frameParent,
+  .usageOverview {
+    gap: 402px;
+    flex-wrap: wrap;
+  }
+  .frameParent {
+    gap: 20px;
+  }
+  .explorerLabelsParent,
+  .frameGroup {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 750px) {
+  .usageOverview {
+    gap: 201px;
+  }
+  .explorerLabelsParent {
+    min-width: 100%;
+  }
+  .stageConnector {
+    font-size: 28px;
+  }
+  .frameGroup {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .assistanceValue {
+    font-size: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .usageOverview {
+    gap: 100px;
+  }
+  .yourFellowshipUsage {
+    font-size: 16px;
+  }
+  .explorerLabelsParent {
+    flex-wrap: wrap;
+  }
+  .explorerLabels {
+    flex: 1;
+  }
+  .explorer,
+  .stageConnector {
+    font-size: 21px;
+  }
+  .fellowshipProgress {
+    font-size: 16px;
+  }
+  .assistanceValue {
+    font-size: 24px;
+  }
+  .b,
+  .courseSeparator,
+  .masterclassSeparator {
+    font-size: 19px;
+  }
+}

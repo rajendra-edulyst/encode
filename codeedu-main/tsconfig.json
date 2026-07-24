@@ -1,0 +1,82 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+    "allowJs": false,
+    "skipLibCheck": true,
+    "esModuleInterop": false,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": false,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@calendar/*": [
+        "./src/views/app/learner/features/calendar/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@constants/*": [
+        "./src/constants/*"
+      ],
+      "@configs/*": [
+        "./src/configs/*"
+      ],
+      "@hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@store/*": [
+        "./src/store/*"
+      ],
+      "@services/*": [
+        "./src/services/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ],
+      "@views/*": [
+        "./src/views/*"
+      ],
+      "@assets/*": [
+        "./src/assets/*"
+      ],
+      "@faculty/*": [
+        "./src/views/faculty/*"
+      ],
+      "@learner/*": [
+        "./src/views/learner/*"
+      ],
+      "@types/*": [
+        "./src/@types/*"
+      ],
+      "@community/*": [
+        "./src/views/common/community/*"
+      ],
+      // industry
+      "@industry/*": [
+        "./src/views/industry/*"
+      ],
+    }
+  },
+  "include": [
+    "src"
+  ],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}

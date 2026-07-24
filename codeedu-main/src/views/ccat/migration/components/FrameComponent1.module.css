@@ -1,0 +1,126 @@
+.ccatStage4Inner,
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.ccatStage4Inner {
+  height: 118px;
+  width: 1242px;
+  justify-content: flex-end;
+  /* padding: 0 20px; */
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Jacques Pro";
+  margin: auto;
+}
+
+.frameParent {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  overflow: hidden;
+  padding: 22px 30px;
+}
+
+.stage04CciTrackContinuousParent {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+
+.stage04CciContainer {
+  width: auto;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.cciTrackContinuous {
+  font-size: 32px;
+}
+
+.ellipseParent {
+  height: 66px;
+  width: 66px;
+  position: relative;
+  display: none;
+  flex-shrink: 0;
+  font-size: 14px;
+}
+
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #5a5a5a;
+  width: 100%;
+  height: 100%;
+}
+
+.div,
+.frameItem {
+  position: absolute;
+  top: 23px;
+  left: 14px;
+}
+
+.frameItem {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #ffec00;
+  width: 100%;
+  height: 100%;
+}
+
+.timeLeft031522 {
+  color: #ffec00;
+}
+
+.timeLeft004953,
+.timeLeft031522 {
+  position: relative;
+  font-size: 20px;
+  display: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+@media screen and (max-width: 750px) {
+  .ccatStage4Inner {
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+  }
+
+  .stage04CciTrackContinuousParent {
+    gap: 145px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .ccatStage4Inner {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+
+  .stage04CciTrackContinuousParent {
+    gap: 73px;
+  }
+
+  .timeLeft004953,
+  .timeLeft031522 {
+    font-size: 16px;
+  }
+}

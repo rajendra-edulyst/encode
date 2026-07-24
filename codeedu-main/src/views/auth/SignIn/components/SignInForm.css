@@ -1,0 +1,61 @@
+/* SignInForm.css */
+
+/* Mobile Small */
+@media (max-width: 479px) { 
+    .auth-action-buttons {
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+    }
+    
+    .auth-action-btn-item {
+        height: 4.5rem !important; /* Make buttons shorter on very small screens */
+    }
+
+    .oauth-container {
+        flex-direction: column;
+        gap: 0.75rem !important;
+    }
+
+    .oauth-divider {
+        display: none; /* Hide divider on small screens for cleaner look */
+    }
+
+    .otp-input-group {
+        gap: 0.25rem !important;
+    }
+
+    .otp-input-slot {
+        height: 2.5rem !important;
+        font-size: 1rem !important;
+    }
+}
+
+/* Mobile */
+@media (min-width: 480px) and (max-width: 767px) { 
+    .auth-action-btn-item {
+        height: 5.5rem !important; 
+    }
+}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 1023px) { 
+}
+
+/* Small Laptop */
+@media (min-width: 1024px) and (max-width: 1279px) { 
+}
+
+/* Desktop */
+@media (min-width: 1280px) and (max-width: 1439px) { 
+}
+
+/* Large Desktop */
+@media (min-width: 1440px) and (max-width: 1919px) { 
+}
+
+/* 2K Monitor */
+@media (min-width: 1920px) and (max-width: 2559px) { 
+}
+
+/* 4K Monitor / TV */
+@media (min-width: 2560px) { 
+}

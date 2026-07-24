@@ -1,0 +1,8 @@
+export const ADMIN = 'Admin'
+export const USER = 'user'
+export const LEARNER = 'learner'
+export const FACULTY = 'Presenter'
+export const INDUSTRY = 'SubAdmin'
+export const PACKAGE_MANAGER = 'PackageManager'
+export const HOD = 'HOD'
+export const ACADEMMIC_DASHBOARD = 'Academic_Dashboard'

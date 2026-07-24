@@ -1,0 +1,121 @@
+- **2026-06-27** (Sanjay Maddheshiya): build
+- **2026-06-27** (Sanjay Maddheshiya): add clock tooltip and toast notification for mentor
+- **2026-06-27** (Sanjay Maddheshiya): fix route
+- **2026-06-27** (Sanjay Maddheshiya): fixing portfolio route
+- **2026-06-26** (Sanjay Maddheshiya): add tooltip feature for mmentor
+- **2026-06-26** (Sanjay Maddheshiya): pinned and unpinned feature
+- **2026-06-26** (Sanjay Maddheshiya): blog pin
+- **2026-06-25** (Sanjay Maddheshiya): build
+- **2026-06-25** (Sanjay Maddheshiya): fixing review
+- **2026-06-25** (Sanjay Maddheshiya): fixing
+- **2026-06-25** (Sanjay Maddheshiya): build
+- **2026-06-25** (Sanjay Maddheshiya): chnage flow mentoring session
+- **2026-06-25** (Prakash Solanki): public course page
+- **2026-06-25** (Sanjay Maddheshiya): fixing
+- **2026-06-25** (Sanjay Maddheshiya): assessmentreview
+- **2026-06-24** (Sanjay Maddheshiya): fixing full screen
+- **2026-06-24** (Sanjay Maddheshiya): fixing assessment review
+- **2026-06-24** (Sanjay Maddheshiya): build
+- **2026-06-24** (Sanjay Maddheshiya): course breadcrums
+- **2026-06-24** (Sanjay Maddheshiya): fixing
+- **2026-06-22** (Sanjay Maddheshiya): build
+- **2026-06-22** (Sanjay Maddheshiya): mode of delivery courses
+- **2026-06-20** (Sanjay Maddheshiya): build
+- **2026-06-20** (Sanjay Maddheshiya): fixing
+- **2026-06-20** (Sanjay Maddheshiya): build
+- **2026-06-20** (Sanjay Maddheshiya): fixing
+- **2026-06-20** (Sanjay Maddheshiya): build
+- **2026-06-20** (Sanjay Maddheshiya): fixing
+- **2026-06-20** (Sanjay Maddheshiya): build
+- **2026-06-20** (Sanjay Maddheshiya): fixing
+- **2026-06-20** (Sanjay Maddheshiya): fixing bug
+- **2026-06-18** (Sanjay Maddheshiya): build
+- **2026-06-18** (Sanjay Maddheshiya): add site-check
+- **2026-06-17** (Sanjay Maddheshiya): build
+- **2026-06-17** (Sanjay Maddheshiya): merge squence
+- **2026-06-17** (Sanjay Maddheshiya): build
+- **2026-06-17** (Sanjay Maddheshiya): fix breadcrums
+- **2026-06-17** (Sanjay Maddheshiya): build
+- **2026-06-17** (Sanjay Maddheshiya): add 5th course
+- **2026-06-16** (Sanjay Maddheshiya): preparatory courses
+- **2026-06-16** (Sanjay Maddheshiya): fixing
+- **2026-06-13** (Sanjay Maddheshiya): build
+- **2026-06-13** (Sanjay Maddheshiya): fixing
+- **2026-06-13** (Sanjay Maddheshiya): fixing collaborate design
+- **2026-06-12** (Sanjay Maddheshiya): fixing profile skills
+- **2026-06-12** (Sanjay Maddheshiya): view portfolio color
+- **2026-06-12** (Sanjay Maddheshiya): fixing
+- **2026-06-12** (Sanjay Maddheshiya): fixing unwanted api calling
+- **2026-06-12** (Sanjay Maddheshiya): fixing
+- **2026-06-12** (Sanjay Maddheshiya): fixing
+- **2026-06-12** (Sanjay Maddheshiya): build
+- **2026-06-12** (Sanjay Maddheshiya): fixing
+- **2026-06-12** (Sanjay Maddheshiya): build
+- **2026-06-12** (Sanjay Maddheshiya): fix image ofinternship
+- **2026-06-11** (Sanjay Maddheshiya): acknoledge flow
+- **2026-06-11** (Sanjay Maddheshiya): Acknowledge tab flow
+- **2026-06-10** (Sanjay Maddheshiya): add extternal link
+- **2026-06-10** (Sanjay Maddheshiya): build
+- **2026-06-10** (Sanjay Maddheshiya): fixing zoom back
+- **2026-06-10** (Sanjay Maddheshiya): zoom meeting fixing
+- **2026-06-10** (Sanjay Maddheshiya): zoom meeting embaded pwd
+- **2026-06-10** (Sanjay Maddheshiya): fix no longer to show CCI domain in courses filter
+- **2026-06-10** (Sanjay Maddheshiya): build
+- **2026-06-10** (Sanjay Maddheshiya): fix card limit
+- **2026-06-09** (Sanjay Maddheshiya): build
+- **2026-06-09** (Sanjay Maddheshiya): fix course breadcrums
+- **2026-06-09** (Sanjay Maddheshiya): fixing login responsive
+- **2026-06-08** (dharmendra-ev): build
+- **2026-06-08** (dharmendra-ev): disable
+- **2026-06-06** (Sanjay Maddheshiya): build
+- **2026-06-06** (Sanjay Maddheshiya): fix pdf issue
+- **2026-06-06** (Sanjay Maddheshiya): build
+- **2026-06-06** (Sanjay Maddheshiya): file size
+- **2026-06-06** (Sanjay Maddheshiya): build
+- **2026-06-06** (Sanjay Maddheshiya): fixing
+- **2026-06-05** (Sanjay Maddheshiya): fixing rember me
+- **2026-06-05** (Sanjay Maddheshiya): add preview resume
+- **2026-06-05** (Sanjay Maddheshiya): fixing resume
+- **2026-06-05** (Sanjay Maddheshiya): add status
+- **2026-06-05** (Sanjay Maddheshiya): adding mobile
+- **2026-06-05** (Sanjay Maddheshiya): fixing template
+- **2026-06-05** (Sanjay Maddheshiya): fixing
+- **2026-06-05** (Sanjay Maddheshiya): build
+- **2026-06-05** (Sanjay Maddheshiya): fixing
+- **2026-06-05** (Sanjay Maddheshiya): survey for job
+- **2026-06-05** (Sanjay Maddheshiya): fixing card
+- **2026-06-05** (Sanjay Maddheshiya): job matching
+- **2026-06-05** (Sanjay Maddheshiya): build
+- **2026-06-05** (Sanjay Maddheshiya): fixing blog routee
+- **2026-06-05** (Sanjay Maddheshiya): build
+- **2026-06-05** (Sanjay Maddheshiya): fixing
+- **2026-06-05** (Sanjay Maddheshiya): build
+- **2026-06-05** (Sanjay Maddheshiya): fixing assignment
+- **2026-06-04** (Sanjay Maddheshiya): build
+- **2026-06-04** (Sanjay Maddheshiya): fixing library issue
+- **2026-06-04** (Sanjay Maddheshiya): fixing pdf
+- **2026-06-04** (Sanjay Maddheshiya): build
+- **2026-06-04** (Sanjay Maddheshiya): fixing pdf render
+- **2026-06-04** (Sanjay Maddheshiya): survey form
+- **2026-06-04** (Sanjay Maddheshiya): build
+- **2026-06-04** (Sanjay Maddheshiya): build
+- **2026-06-04** (Sanjay Maddheshiya): fixing pdf issue
+- **2026-06-04** (Sanjay Maddheshiya): add aplicant
+- **2026-06-04** (Sanjay Maddheshiya): fixing location
+- **2026-06-04** (Sanjay Maddheshiya): fixing
+- **2026-06-04** (Sanjay Maddheshiya): add qr
+- **2026-06-03** (Sanjay Maddheshiya): build
+- **2026-06-03** (Sanjay Maddheshiya): fixing
+- **2026-06-03** (Sanjay Maddheshiya): fixing
+- **2026-06-03** (Sanjay Maddheshiya): fixing
+- **2026-06-03** (Sanjay Maddheshiya): fixing jobs
+- **2026-06-03** (Sanjay Maddheshiya): fixing jobs card
+- **2026-06-03** (Sanjay Maddheshiya): fixing tabs --figma
+- **2026-06-03** (Sanjay Maddheshiya): fixing button
+- **2026-06-03** (Sanjay Maddheshiya): build
+- **2026-06-03** (Sanjay Maddheshiya): fixing route
+- **2026-06-02** (Sanjay Maddheshiya): build
+- **2026-06-02** (Sanjay Maddheshiya): fixing
+- **2026-06-02** (Sanjay Maddheshiya): fixing header icon
+- **2026-06-02** (Sanjay Maddheshiya): fixing jobs and internship
+- **2026-06-01** (Sanjay Maddheshiya): fixing card image

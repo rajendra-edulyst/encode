@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.codeedu.encode",
+            "sha256_cert_fingerprints": [
+                "EC:11:A9:20:70:51:E0:F3:96:FF:AC:95:C5:E9:34:0C:B4:B1:91:97:34:14:AF:EE:C8:6B:CA:16:B1:FF:1B:45",
+                "2A:66:5A:53:20:7A:61:BF:28:5A:21:85:B3:E2:2D:DA:38:16:30:C1:00:21:78:3F:04:F0:09:04:1F:16:FD:06"
+            ]
+        }
+    }
+]

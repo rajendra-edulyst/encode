@@ -1,0 +1,31 @@
+// import { Button } from "@/components/ui/ShadcnButton";
+
+// const Registration = () => {
+
+//     return (
+//         <div className="h-[200px] flex flex-col gap-6">
+//                 <div>
+//                     <h1 className="text-3xl font-bold mb-1 text-cgreen flex justify-center">Registration Complete!</h1>
+//                 </div>
+//                 <div className="flex items-center text-center flex-col gap-4 text-base">
+//                    <p>Thanks for your interest, <span className='font-semibold'>name</span></p>
+//                    <p>Your reference number is <span className='font-semibold'>CE1023</span></p>
+//                 </div>
+        
+                
+//                 <div className='mt-3 flex justify-center'>
+//                     <Button
+//                         // disabled={mutation.isPending}
+//                         type="submit"
+//                         className="bg-[#d63384] hover:bg-[#b02a5b] text-white w-[400px]  rounded-lg px-8 py-2 font-semibold focus-visible:ring-0 focus-visible:outline-0 focus-visible:ring-offset-0"
+//                     >
+//                         {/* {mutation.isPending && <LoaderCircle className="h-4 w-4 animate-spin mr-2" />} */}
+//                         Continue to our community
+//                     </Button>
+                 
+//                 </div>
+//         </div>
+//     )
+// }
+
+// export default Registration

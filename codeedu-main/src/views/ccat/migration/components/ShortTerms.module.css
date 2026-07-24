@@ -1,0 +1,83 @@
+.shortTerms {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #323232;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px;
+  box-sizing: border-box;
+  gap: 24px;
+  min-width: 364px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.containerIcon {
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+}
+.container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.shortTermGoals {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.next36Months {
+  width: 145.3px;
+  height: 16px;
+  position: relative;
+  font-size: 12px;
+  line-height: 16px;
+  color: #858585;
+  display: inline-block;
+}
+.container3,
+.container4 {
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+}
+.container3 {
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 14px;
+}
+.container4 {
+  border-radius: 10px;
+  background-color: #5a5a5a;
+  border: 0.7px solid #5a5a5a;
+  align-items: center;
+  padding: 12px 11px 12px 12px;
+}
+.icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.refineYourStorytelling {
+  width: 333px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+@media screen and (max-width: 750px) {
+  .shortTerms {
+    min-width: 100%;
+  }
+}

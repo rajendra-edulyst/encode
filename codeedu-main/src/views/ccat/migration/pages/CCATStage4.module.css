@@ -1,0 +1,254 @@
+.ccatStage4,
+.ccatStage4Inner {
+  position: relative;
+  overflow: hidden;
+}
+.ccatStage4 {
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 41.3px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: "Jacques Pro";
+  margin-top: 40px;
+}
+.ccatStage4Inner {
+  width: 1301px;
+  height: 797px;
+  flex-shrink: 0;
+  background-image: url(/public/Frame-1410081287@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  display: none;
+  max-width: 100%;
+}
+.frameChild {
+  position: absolute;
+  top: 710px;
+  left: 670px;
+  background-color: #0a0a0a;
+  width: 232px;
+  height: 78px;
+}
+.container {
+  width: 857px;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+.badge,
+.container2 {
+  display: flex;
+  align-items: center;
+}
+.container2 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.badge {
+  height: 32px;
+  border-radius: 6.8px;
+  background-color: #717171;
+  overflow: hidden;
+  justify-content: center;
+  padding: 6px 10px;
+  box-sizing: border-box;
+}
+.question15Out {
+  position: relative;
+}
+.container3 {
+  display: none;
+  align-items: flex-start;
+  gap: 7px;
+  font-size: 10.5px;
+  color: #005f78;
+  font-family: Arial;
+}
+.badge2 {
+  height: 18.8px;
+  border-radius: 6.8px;
+  background-color: #cefafe;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1px 6px;
+  box-sizing: border-box;
+}
+.roxServices {
+  position: relative;
+  line-height: 14px;
+}
+.badge3,
+.primitivediv {
+  overflow: hidden;
+  display: flex;
+}
+.badge3 {
+  height: 18.8px;
+  border-radius: 6.8px;
+  background-color: #eceef2;
+  align-items: center;
+  justify-content: center;
+  padding: 1px 7px;
+  box-sizing: border-box;
+  color: #030213;
+}
+.primitivediv {
+  align-self: stretch;
+  border-radius: 22369600px;
+  background-color: #5a5a5a;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container4 {
+  align-self: stretch;
+  position: relative;
+  border-radius: 10px;
+  background-color: #ffec00;
+}
+.stageDescripttion {
+  width: 340px;
+  height: 768px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+}
+.objectiveToAssessContainer {
+  position: absolute;
+  top: 64px;
+  left: 20px;
+  display: inline-block;
+  width: 300px;
+}
+.objective {
+  margin: 0;
+}
+.objective2,
+.toAssessStorytelling {
+  font-size: 16px;
+  font-family: "Jacques Pro";
+}
+.toAssessStorytelling {
+  font-size: 14px;
+}
+.activityToDo2 {
+  font-size: 16px;
+}
+.videoSubmissionMandatory2 {
+  text-decoration: underline;
+}
+.taskUploadAVideoResume {
+  margin: 0;
+  padding-left: 19px;
+}
+.taskRespondTo {
+  font-family: "Jacques Pro";
+}
+.stage03Wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 20px 0;
+  background-color: #7fbc42;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  white-space: nowrap;
+  color: #000;
+}
+.actionButtonsParent,
+.ccatStage4Child {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.ccatStage4Child {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 22px;
+  box-sizing: border-box;
+}
+.actionButtonsParent {
+  width: 1242px;
+  flex-direction: column;
+  gap: 30px;
+}
+.component8 {
+  width: 68px;
+  height: 799px;
+  position: relative;
+  box-shadow: 0 1px 4px rgba(39, 52, 84, 0.25);
+  border-radius: 0 12px 12px 0;
+  background-color: #1d1d1d;
+  border-right: 0.5px solid rgba(33, 36, 39, 0.2);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.rectangleParent {
+  position: absolute;
+  width: calc(100% - 6px);
+  top: 41px;
+  right: 3px;
+  left: 3px;
+  height: 349px;
+}
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: rgba(255, 236, 0, 0.2);
+  width: 62px;
+  height: 46px;
+}
+.blue {
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  width: 30px;
+  height: 337px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+}
+.blueChild {
+  width: 30px;
+  height: 24px;
+  object-fit: cover;
+}
+.frameIcon2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 9px;
+  left: 24px;
+  width: 20px;
+  height: 20px;
+}
+@media screen and (max-width: 750px) {
+  .ccatStage4 {
+    gap: 21px;
+  }
+}

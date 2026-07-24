@@ -1,0 +1,377 @@
+.actionButtons,
+.create {
+  align-self: stretch;
+  display: flex;
+}
+.actionButtons {
+  height: 200px;
+  align-items: flex-end;
+  gap: 20px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #00a8e9;
+  font-family: "Jacques Pro";
+}
+.create {
+  width: 304px;
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px 14px 16px 16px;
+  box-sizing: border-box;
+  gap: 6px;
+}
+.create2,
+.createChild {
+  position: relative;
+  flex-shrink: 0;
+}
+.createChild {
+  width: 304px;
+  height: 194px;
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  display: none;
+}
+.create2 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 1;
+}
+.resourceMetrics {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  flex-shrink: 0;
+  font-size: 12px;
+  color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.frameChild,
+.rectangleParent {
+  border-radius: 8px;
+  background-color: #323232;
+}
+.rectangleParent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  padding: 8px 14px;
+  gap: 106px;
+  z-index: 1;
+}
+.frameChild {
+  height: 36px;
+  width: 272px;
+  position: relative;
+  display: none;
+  flex-shrink: 0;
+}
+.metricTitles {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 0 0;
+  flex-shrink: 0;
+}
+.coursesCompleted {
+  align-self: stretch;
+  position: relative;
+  z-index: 2;
+}
+.metricDividers {
+  position: relative;
+  font-size: 14px;
+  display: inline-block;
+  color: #00a8e9;
+  text-align: right;
+  min-width: 12px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+.rectangleContainer,
+.rectangleGroup {
+  border-radius: 8px;
+  background-color: #323232;
+  padding: 8px 14px;
+  z-index: 1;
+}
+.rectangleGroup {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  gap: 130px;
+}
+.rectangleContainer {
+  gap: 91px;
+}
+.connect,
+.connectParent,
+.rectangleContainer {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+}
+.connectParent {
+  padding: 0 120px 0 0;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+  color: #e60086;
+}
+.connect {
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  flex-direction: column;
+  padding: 16px;
+  gap: 6px;
+}
+.connect2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 103px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.agendaWrapper,
+.buzzPostedWrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.agendaWrapper {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 8px;
+  background-color: #323232;
+  justify-content: space-between;
+  padding: 8px 14px;
+  gap: 20px;
+  z-index: 1;
+}
+.buzzPostedWrapper {
+  width: 78px;
+  flex-direction: column;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.buzzSeparator {
+  cursor: pointer;
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Jacques Pro";
+  color: #e60086;
+  text-align: right;
+  display: inline-block;
+  z-index: 2;
+  flex-shrink: 0;
+}
+.pollWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 0 0;
+  flex-shrink: 0;
+}
+.opinionPolls {
+  position: relative;
+  display: inline-block;
+  min-width: 74px;
+  z-index: 2;
+}
+.rectangleParent2 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 8px;
+  background-color: #323232;
+  display: flex;
+  align-items: flex-start;
+  padding: 8px 14px;
+  gap: 105px;
+  z-index: 1;
+}
+.communitySeparator {
+  position: relative;
+  font-size: 14px;
+  display: inline-block;
+  color: #e60086;
+  text-align: right;
+  min-width: 12px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+.collaborate {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px;
+  gap: 8px;
+  font-size: 12px;
+  color: #fff;
+}
+.collaborate2 {
+  margin: 0;
+  position: relative;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #7fc142;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.collaborateItem {
+  width: 228px;
+  height: 36px;
+  position: relative;
+  border-radius: 8px;
+  background-color: #323232;
+  display: none;
+  flex-shrink: 0;
+}
+.onTheAgendaWrapper,
+.rectangleParent3 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.rectangleParent3 {
+  align-self: stretch;
+  height: 36px;
+  border-radius: 8px;
+  background-color: #323232;
+  justify-content: space-between;
+  padding: 8px 14px;
+  gap: 20px;
+  z-index: 1;
+}
+.onTheAgendaWrapper {
+  width: 96px;
+  flex-direction: column;
+  padding: 2px 0 0;
+}
+.input {
+  cursor: pointer;
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Jacques Pro";
+  color: #7fc142;
+  text-align: right;
+  display: inline-block;
+  z-index: 2;
+  flex-shrink: 0;
+}
+.attendanceWrapper {
+  width: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.b3,
+.resourceTools {
+  position: relative;
+  display: none;
+  flex-shrink: 0;
+}
+.b3 {
+  color: #7fc142;
+  text-align: right;
+}
+.submitButton,
+.tag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tag {
+  cursor: pointer;
+  border: 0;
+  padding: 24px 10px;
+  background-color: #ffec00;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-direction: column;
+}
+.submitButton {
+  height: 54px;
+  padding: 10px 27px;
+  box-sizing: border-box;
+}
+.submitReport {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: 20px;
+  font-family: "Jacques Pro";
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+}
+@media screen and (max-width: 750px) {
+  .connectParent {
+    flex-wrap: wrap;
+    padding-right: 60px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .create2 {
+    font-size: 16px;
+  }
+  .rectangleParent {
+    gap: 53px;
+  }
+  .rectangleGroup {
+    gap: 65px;
+  }
+  .rectangleContainer {
+    gap: 45px;
+  }
+  .connectParent {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .connect2 {
+    font-size: 16px;
+  }
+  .rectangleParent2 {
+    gap: 52px;
+  }
+  .collaborate2,
+  .submitReport {
+    font-size: 16px;
+  }
+}

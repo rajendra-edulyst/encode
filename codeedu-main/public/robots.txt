@@ -1,0 +1,35 @@
+# robots.txt for CODE Edu
+# https://codeedu.com/robots.txt
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /login
+Disallow: /signup
+Disallow: /dashboard/settings
+Disallow: /user/profile/edit
+
+# Allow specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://encode.codeedu.co/sitemap.xml
+Sitemap: https://encode.codeedu.co/sitemap-pages.xml
+Sitemap: https://encode.codeedu.co/sitemap-courses.xml
+Sitemap: https://encode.codeedu.co/sitemap-community.xml

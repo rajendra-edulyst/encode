@@ -1,0 +1,531 @@
+.attempt,
+.attemptWrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.attemptWrapper {
+  align-self: stretch;
+  padding: 0 0 127px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 48px;
+  color: rgba(255, 255, 255, 0.15);
+  font-family: "Creative Ligatures Demo";
+}
+.attempt {
+  height: 184px;
+  flex: 1;
+  background-color: #1d1d1d;
+  overflow: hidden;
+  padding: 29px 0 0;
+  gap: 26px;
+  z-index: 2;
+}
+.frameParent {
+  height: 137px;
+  width: 1423px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 36px;
+  color: #009bd8;
+  font-family: "Jacques Pro";
+}
+.frameGroup {
+  position: absolute;
+  top: 14px;
+  left: 61px;
+  width: 341px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+.vectorParent {
+  position: relative;
+}
+.frameChild {
+  position: absolute;
+  top: 7.5px;
+  left: 10px;
+  width: 169px;
+  height: 35px;
+}
+.create {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 4px;
+}
+.learnAtYourPaceParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  font-size: 20px;
+  color: #fff;
+}
+.learnAtYour,
+.repositoryOfCourses {
+  align-self: stretch;
+  position: relative;
+}
+.repositoryOfCourses {
+  font-size: 14px;
+}
+.frameInner {
+  position: absolute;
+  top: -1.5px;
+  left: 466.5px;
+  border-right: 3px solid #727272;
+  box-sizing: border-box;
+  width: 3px;
+  height: 140px;
+}
+.frameDiv {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 177.5px);
+  width: 345px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  max-width: 100%;
+  color: #e60086;
+}
+.vectorContainer {
+  position: relative;
+  flex-shrink: 0;
+}
+.vectorIcon {
+  position: absolute;
+  top: 7.5px;
+  left: 0;
+  width: 198px;
+  height: 35px;
+}
+.connect {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 104.5px);
+  letter-spacing: 4px;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.addValueToYourExperienceParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  max-width: 119%;
+  flex-shrink: 0;
+  font-size: 20px;
+  color: #fff;
+}
+.lineDiv {
+  position: absolute;
+  top: -1.5px;
+  left: 943.5px;
+  border-right: 3px solid #727272;
+  box-sizing: border-box;
+  width: 3px;
+  height: 140px;
+}
+.frameParent2 {
+  position: absolute;
+  top: 14px;
+  left: 1011px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  max-width: 100%;
+  color: #7fbc42;
+}
+.groupDiv {
+  position: relative;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frameChild2 {
+  position: absolute;
+  top: 8.9px;
+  left: 0;
+  width: 281.8px;
+  height: 34.6px;
+}
+.collaborate {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 160.5px);
+  letter-spacing: 4px;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.fuelYourGrowthWithExposureParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  max-width: 115%;
+  flex-shrink: 0;
+  font-size: 20px;
+  color: #fff;
+}
+.fuelYourGrowth {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.ccatCreativeCapabilityContainer {
+  width: 1083px;
+  position: relative;
+  line-height: 40px;
+  display: none;
+  align-items: center;
+  flex-shrink: 0;
+  color: #ffec00;
+}
+.ccatCreativeCapabilityContainer2 {
+  width: 100%;
+}
+.ccat {
+  color: #fff;
+}
+.b {
+  font-family: "Jacques Pro";
+}
+.creative {
+  color: #00a8e9;
+}
+.span {
+  color: #ffec00;
+}
+.capability {
+  color: #e60086;
+}
+.test {
+  color: #7fbc42;
+}
+.categoryColumnParent {
+  margin-top: -61px;
+  width: 214px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 37px 0 0;
+  box-sizing: border-box;
+  gap: 29px;
+  flex-shrink: 0;
+}
+.categoryColumn {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  padding: 0 27px;
+  flex-shrink: 0;
+}
+.cci {
+  position: relative;
+  display: inline-block;
+  min-width: 90px;
+  min-height: 83px;
+}
+.frameParent3,
+.hciWrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.frameParent3 {
+  width: 238px;
+  justify-content: space-between;
+  gap: 20px;
+  flex-shrink: 0;
+  color: rgba(255, 255, 255, 0.1);
+}
+.hciWrapper {
+  width: 94px;
+  flex-direction: column;
+  padding: 59px 0 0;
+  box-sizing: border-box;
+}
+.cci2,
+.hci {
+  position: relative;
+  display: inline-block;
+  min-height: 83px;
+}
+.hci {
+  align-self: stretch;
+}
+.cci2 {
+  width: 90px;
+  color: rgba(255, 255, 255, 0.4);
+}
+.attemptInner,
+.detailsColumnParent {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.attemptInner {
+  height: 155px;
+  flex: 1;
+  align-items: flex-start;
+  padding: 11px 21px 143px 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 494px);
+  font-size: 36px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.detailsColumnParent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 82px;
+  max-width: 100%;
+}
+.detailsColumn,
+.detailsColumnInner {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.detailsColumn {
+  flex-direction: column;
+  gap: 4px;
+}
+.detailsColumnInner {
+  padding: 0 0 0 36px;
+  box-sizing: border-box;
+}
+.growthIsntOneShotYouGetParent {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  isolation: isolate;
+  max-width: 100%;
+}
+.growthIsntOneShotContainer {
+  width: 889px;
+  position: relative;
+  display: inline-block;
+  min-height: 100px;
+  flex-shrink: 0;
+}
+.cci3,
+.cci4 {
+  width: 90px;
+  font-size: 48px;
+  font-family: "Creative Ligatures Demo";
+  display: inline-block;
+  min-height: 83px;
+}
+.cci3 {
+  position: absolute;
+  margin: 0 !important;
+  top: -29px;
+  left: -64px;
+  color: rgba(255, 255, 255, 0.2);
+  min-width: 90px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.cci4 {
+  position: relative;
+  color: rgba(255, 255, 255, 0.05);
+}
+.createConnectCollaborateWrapper {
+  width: 890px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 94px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 32px;
+  color: #273454;
+  font-family: Inter;
+}
+.createConnectContainer {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.frameParent4 {
+  margin-top: -61px;
+  width: 151px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  flex-shrink: 0;
+}
+.cciWrapper,
+.frameParent5 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.frameParent5 {
+  flex-direction: column;
+}
+.cciWrapper {
+  justify-content: flex-end;
+}
+.cci6,
+.cci7 {
+  width: 90px;
+  position: relative;
+  display: inline-block;
+  min-height: 83px;
+}
+.cci6 {
+  color: rgba(255, 255, 255, 0.4);
+  margin-top: -1px;
+}
+.cci7 {
+  color: rgba(255, 255, 255, 0.1);
+}
+.abilityScore {
+  width: 51px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 34px;
+  flex-shrink: 0;
+  color: rgba(255, 255, 255, 0.2);
+}
+.cci8 {
+  width: 90px;
+  position: relative;
+  display: inline-block;
+  min-height: 83px;
+}
+.hciContainer {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  padding: 0 0 0 47px;
+  color: rgba(255, 255, 255, 0.05);
+}
+.hci2 {
+  position: relative;
+  display: inline-block;
+  min-width: 94px;
+  min-height: 83px;
+}
+@media screen and (max-width: 1050px) {
+  .collaborate,
+  .connect,
+  .create {
+    font-size: 29px;
+  }
+  .ccatCreativeCapabilityContainer {
+    font-size: 38px;
+    line-height: 32px;
+  }
+  .cci,
+  .cci2,
+  .hci {
+    font-size: 38px;
+  }
+  .detailsColumnParent {
+    gap: 41px;
+  }
+  .growthIsntOneShotContainer {
+    font-size: 29px;
+  }
+  .cci3,
+  .cci4 {
+    font-size: 38px;
+  }
+  .createConnectCollaborateWrapper {
+    padding-left: 47px;
+    padding-right: 47px;
+    box-sizing: border-box;
+  }
+  .createConnectContainer {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .cci6,
+  .cci7,
+  .cci8,
+  .hci2 {
+    font-size: 38px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .create {
+    font-size: 22px;
+  }
+  .learnAtYour {
+    font-size: 16px;
+  }
+  .collaborate,
+  .connect {
+    font-size: 22px;
+  }
+  .fuelYourGrowth {
+    font-size: 16px;
+  }
+  .ccatCreativeCapabilityContainer {
+    font-size: 29px;
+    line-height: 24px;
+  }
+  .cci,
+  .cci2,
+  .hci {
+    font-size: 29px;
+  }
+  .attemptInner {
+    padding-top: 20px;
+    padding-bottom: 93px;
+    box-sizing: border-box;
+  }
+  .detailsColumnParent {
+    gap: 20px;
+  }
+  .growthIsntOneShotContainer {
+    font-size: 22px;
+  }
+  .cci3,
+  .cci4 {
+    font-size: 29px;
+  }
+  .createConnectCollaborateWrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .createConnectContainer {
+    font-size: 19px;
+    line-height: 24px;
+  }
+  .cci6,
+  .cci7,
+  .cci8,
+  .hci2 {
+    font-size: 29px;
+  }
+}

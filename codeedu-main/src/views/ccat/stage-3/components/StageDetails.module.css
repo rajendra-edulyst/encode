@@ -1,0 +1,107 @@
+.stageDetails,
+.stageTitle {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.stageDetails {
+  height: 118px;
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 22px 30px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.stageTitle {
+  flex: 1;
+  align-items: center;
+  gap: 417px;
+}
+.stage02CciContainer {
+  width: 564px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.cciEngageEcosystem {
+  font-size: 32px;
+}
+.ellipseParent {
+  height: 66px;
+  width: 66px;
+  position: relative;
+  display: none;
+  flex-shrink: 0;
+  font-size: 14px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #5a5a5a;
+  width: 100%;
+  height: 100%;
+}
+.div,
+.frameItem {
+  position: absolute;
+  top: 23px;
+  left: 14px;
+}
+.frameItem {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #ffec00;
+  width: 100%;
+  height: 100%;
+}
+.timeLeft004953,
+.timeLeft460153 {
+  position: relative;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+.timeLeft460153 {
+  margin: 0;
+  width: 199px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #ffec00;
+  display: inline-block;
+}
+.timeLeft004953 {
+  display: none;
+  white-space: nowrap;
+}
+@media screen and (max-width: 1225px) {
+  .stageDetails {
+    height: auto;
+  }
+  .stageTitle {
+    gap: 208px;
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .stageTitle {
+    gap: 104px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .stageTitle {
+    gap: 52px;
+  }
+  .timeLeft004953,
+  .timeLeft460153 {
+    font-size: 16px;
+  }
+}

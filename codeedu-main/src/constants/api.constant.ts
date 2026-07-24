@@ -1,0 +1,5 @@
+export const TOKEN_TYPE = 'Bearer '
+export const REQUEST_HEADER_AUTH_KEY = 'Authorization'
+export const TOKEN_NAME_IN_STORAGE = 'token'
+export const CONTENT_TYPE_JSON = 'application/json'
+export const NLMS_API_KEY = '0612b32b39f4b29f48c5c5363028ee916bb99CodeEdu'

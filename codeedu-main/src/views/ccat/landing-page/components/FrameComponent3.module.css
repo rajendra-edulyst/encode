@@ -1,0 +1,405 @@
+.frameParent {
+  width: 1357px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 20px 182.9px 0;
+  box-sizing: border-box;
+  gap: 18px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: "Creative Ligatures Demo";
+}
+.competencyAssets,
+.competencyAssetsParent {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.competencyAssetsParent {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.competencyAssets {
+  align-items: flex-end;
+  gap: 2px;
+}
+.objects {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  position: relative;
+  min-width: 455px;
+  max-width: 100%;
+  z-index: 1;
+  min-height: 660px;
+  padding-right: 50px;
+}
+.groupIcon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+.indexLabel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.cci,
+.competitiveCapabilityIndex {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.cci {
+  min-width: 90px;
+  min-height: 83px;
+  text-align: center;
+}
+.competitiveCapabilityIndex {
+  width: 212px;
+  font-size: 24px;
+  font-family: "Jacques Pro";
+  text-align: center;
+  min-height: 68px;
+  flex-shrink: 0;
+}
+.asset321,
+.asset4Icon {
+  height: 160px;
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+  flex-shrink: 0;
+}
+.asset4Icon {
+  width: 162px;
+  top: 67px;
+  right: -82px;
+}
+.asset321 {
+  width: 161px;
+  right: -81px;
+  bottom: 66px;
+}
+.competencyAssetsInner,
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.competencyAssetsInner {
+  width: 635px;
+  align-items: flex-start;
+  padding: 0 0 82px;
+  box-sizing: border-box;
+  min-height: 705px;
+  text-align: left;
+  font-size: 36px;
+  color: #f79b10;
+  font-family: "Jacques Pro";
+}
+.frameGroup {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 110px;
+}
+.creativityTitle,
+.creativityTitleWrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.creativityTitleWrapper {
+  width: 567px;
+  justify-content: flex-end;
+  padding: 0 52px 23px;
+  box-sizing: border-box;
+}
+.creativityTitle {
+  flex: 1;
+  flex-direction: column;
+  gap: 18px;
+}
+.curiousCreators {
+  margin: 0;
+  width: 330px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.turnYourCuriosity {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  color: #fff;
+}
+.talentProfile {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-end;
+  gap: 40px;
+  max-width: 100%;
+  color: #36e036;
+}
+.asset4Icon2 {
+  height: 160px;
+  width: 162px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.industryTitle,
+.industryTitleWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.industryTitleWrapper {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 16px;
+  box-sizing: border-box;
+  min-width: 281px;
+}
+.industryTitle {
+  align-self: stretch;
+  gap: 18px;
+}
+.creativeIndustries,
+.forCreativeIndustries {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.creativeIndustries {
+  margin: 0;
+  width: 360px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  max-width: 100%;
+}
+.forCreativeIndustries {
+  font-size: 20px;
+  line-height: 23.13px;
+  color: #fff;
+  min-height: 56px;
+}
+.builderTitleWrapper {
+  width: 584px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 68px;
+  box-sizing: border-box;
+  max-width: 100%;
+  color: #4b6bf7;
+}
+.futureInnovators,
+.understandHowYou {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.futureInnovators {
+  margin: 0;
+  width: 339px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  max-width: 100%;
+}
+.understandHowYou {
+  height: 56px;
+  font-size: 20px;
+  color: #fff;
+}
+.talentForwardInstitutionsWrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  padding: 0 306px 0 507px;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -4px;
+  position: relative;
+  font-size: 36px;
+  color: #8a46e4;
+  font-family: "Jacques Pro";
+}
+.talentForwardInstitutions {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.asset5Parent {
+  width: 1030px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  isolation: isolate;
+  max-width: 100%;
+  font-size: 20px;
+  font-family: "Jacques Pro";
+}
+.asset5Icon {
+  height: 160px;
+  width: 162px;
+  position: absolute;
+  margin: 0 !important;
+  top: -88px;
+  left: 305px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+.identifyAndNurtureCreativeWrapper {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.identifyAndNurture {
+  position: relative;
+  display: inline-block;
+  min-height: 56px;
+  box-sizing: border-box;
+  padding-left: 20px;
+  z-index: 1;
+}
+@media screen and (max-width: 1200px) {
+  .frameParent {
+    padding-bottom: 119px;
+    box-sizing: border-box;
+  }
+  .competencyAssets {
+    flex-wrap: wrap;
+  }
+  .competencyAssetsInner {
+    flex: 1;
+  }
+  .talentForwardInstitutionsWrapper {
+    padding-left: 253px;
+    padding-right: 153px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cci {
+    font-size: 38px;
+  }
+  .creativeIndustries,
+  .curiousCreators,
+  .futureInnovators,
+  .talentForwardInstitutions {
+    font-size: 29px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frameParent {
+    padding-bottom: 77px;
+    box-sizing: border-box;
+  }
+  .competencyAssetsInner,
+  .objects {
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+
+  .competencyAssetsInner {
+    padding-bottom: 53px;
+  }
+  .frameGroup {
+    gap: 55px;
+  }
+  .creativityTitleWrapper {
+    padding-left: 26px;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .talentProfile {
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .asset4Icon2 {
+    flex: 1;
+  }
+  .builderTitleWrapper {
+    padding-left: 34px;
+    padding-right: 34px;
+    box-sizing: border-box;
+  }
+  .talentForwardInstitutionsWrapper {
+    padding-left: 126px;
+    padding-right: 76px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cci {
+    font-size: 29px;
+  }
+  .competitiveCapabilityIndex {
+    font-size: 19px;
+  }
+  .frameGroup {
+    gap: 27px;
+  }
+  .curiousCreators {
+    font-size: 22px;
+  }
+  .turnYourCuriosity {
+    font-size: 16px;
+  }
+  .creativeIndustries {
+    font-size: 22px;
+  }
+  .forCreativeIndustries {
+    font-size: 16px;
+  }
+  .futureInnovators {
+    font-size: 22px;
+  }
+  .understandHowYou {
+    font-size: 16px;
+  }
+  .talentForwardInstitutionsWrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .talentForwardInstitutions {
+    font-size: 22px;
+  }
+  .identifyAndNurture {
+    font-size: 16px;
+  }
+}

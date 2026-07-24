@@ -1,0 +1,3524 @@
+
+{
+    "status": 1,
+    "data": {
+        "attempted_id": 15787,
+        "assessment_details": {
+            "title": "Question Repository",
+            "description": "Question Repository",
+            "start_date": 1760072400,
+            "end_date": 1794718800,
+            "maximum_marks": 100,
+            "passing_marks": 33,
+            "question_count": 100,
+            "negative_marking": 0,
+            "negative_marks": 0,
+            "total_attempts": 40,
+            "attempt_count": 2,
+            "duration_in_minutes": 90,
+            "questions": [
+                {
+                    "question_id": 3940,
+                    "question": "How does TikTok keep users engaged?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By offering a \u201cFor You\u201d feed curated by AI",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By restricting comments",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By hiding trending videos",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By requiring content approval",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3922,
+                    "question": "Which Figma feature improves collaboration between designers and developers?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Auto-layout",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Component libraries",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Developer handoff",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Figma plugins",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3876,
+                    "question": "What is the role of competitive analysis in UX research?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "To copy successful designs from competitors",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "To identify market gaps and understand user expectations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "To design the final product",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "To develop marketing strategies",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3927,
+                    "question": "What UX challenge did Slack solve?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Improving long email threads",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Making emails more complex",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Removing direct messaging in workplaces",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Making UI harder to navigate",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3936,
+                    "question": "How does Google Maps improve navigation UX?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By providing real-time traffic updates",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By displaying only major roads",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By hiding route alternatives",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By limiting zoom features",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3878,
+                    "question": "What is one common mistake UX designers make during the Define phase?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Conducting too much research",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Defining the problem based on assumptions rather than research insights",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Skipping the design phase",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Spending too much time on competitive analysis",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3958,
+                    "question": "What UX improvement did Facebook introduce to enhance content visibility?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Algorithm-driven news feed personalization",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Removing the like button",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Restricting content discovery",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Limiting user interaction with posts",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3952,
+                    "question": "What UX feature did PayPal introduce to simplify transactions?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "One-click payments",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Lengthy authentication processes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No mobile support",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No integration with other platforms",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3903,
+                    "question": "Which tool is commonly used for creating wireframes?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Photoshop",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Microsoft Word",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Figma",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Excel",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3944,
+                    "question": "How does Netflix use A\/B testing to enhance user experience?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By testing different thumbnails and recommendations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By randomly removing shows",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By limiting search functionality",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By increasing ad interruptions",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3943,
+                    "question": "What was a major UX challenge Netflix solved?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Improving content discovery",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Increasing buffering time",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Making search results less relevant",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Removing personalized recommendations",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3916,
+                    "question": "What is a common challenge when collaborating with engineers in the Develop phase?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Engineers do not understand design principles",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Aligning design feasibility with technical constraints",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Designers must code everything themselves",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Engineers always reject UX recommendations",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3875,
+                    "question": "A key reason why stakeholder interviews are conducted in the Discover phase is:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "To get approval for the final design",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "To understand business goals and product vision",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "To build high-fidelity prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "To conduct usability testing",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3917,
+                    "question": "Which approach best fosters collaboration between UX designers and developers?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Designers making all the decisions alone",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Ignoring technical limitations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Regular communication and shared documentation",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Only meeting at the end of the project",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3942,
+                    "question": "What is the main UX strength of Netflix?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A personalized recommendation system",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Mandatory manual searches",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "A single fixed homepage",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No auto-play options",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3934,
+                    "question": "How did Airbnb improve trust among users?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By introducing verified profiles and reviews",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By removing guest reviews",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By hiding host details",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By reducing customer support",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3919,
+                    "question": "How does Duolingo use A\/B testing in its UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "To compare different engagement strategies",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "To randomly assign lessons",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "To remove features",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "To test only new languages",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3900,
+                    "question": "What is the primary goal of the \u2018Develop\u2019 phase in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Brainstorming ideas",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Conducting user interviews",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Translating wireframes into functional interfaces",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Writing marketing content",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3945,
+                    "question": "What key UX feature makes YouTube\u2019s video-watching experience seamless?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Autoplay and recommended videos",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Mandatory full-screen mode",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No video suggestions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No user engagement options",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3915,
+                    "question": "Why is usability testing crucial before delivering a UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "It ensures user needs are met",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "It helps make the product look better",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "It eliminates the need for collaboration",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "It reduces development time",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3953,
+                    "question": "How does Google Docs improve collaboration?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Real-time editing and commenting",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Only allowing single-user access",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No version history feature",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No file-sharing options",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3906,
+                    "question": "Which of the following is a free prototyping tool?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Sketch",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Figma",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Axure RP",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Framer",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3901,
+                    "question": "Why is collaboration between designers and developers crucial in the Develop phase?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "To ensure designs are visually appealing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "To improve user testing results",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "To maintain design integrity during implementation",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "To reduce the need for prototyping",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3897,
+                    "question": "Why is recognizing cognitive biases important in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "It ensures a bias-free design process",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "It helps designers create more inclusive, user-centered products",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "It prevents all usability issues",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "It allows designers to work without user research",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3874,
+                    "question": "What is the relationship between the Discover and Define phases?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "The Define phase uses insights from the Discover phase to shape design goals",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "They are unrelated and work independently",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "The Define phase comes before the Discover phase",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "The Discover phase focuses on UI while the Define phase focuses on business needs",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3899,
+                    "question": "Which phase of the 6D design process focuses on transforming conceptualized designs into functional products?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Define",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Develop & Deliver",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Discover",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Deploy",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3947,
+                    "question": "What makes Google Search\u2019s UX so effective?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A minimalist design with fast results",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "A cluttered homepage",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Limited filtering options",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No integration with other Google services",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3862,
+                    "question": "Which of these is NOT a common research method used in the Discover phase?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Surveys",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Competitive analysis",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Usability testing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Ethnographic research",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3860,
+                    "question": "Which of the following methods is commonly used in the Discover phase?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A\/B testing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "User interviews",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "UI prototyping",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "HTML coding",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3941,
+                    "question": "Which UX element makes TikTok videos more interactive?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Music and effect integration",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "No video editing tools",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Complex upload process",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No user-generated content",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3925,
+                    "question": "How does Spotify improve user engagement through UX?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By creating a complicated interface",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By offering personalized playlists like \u201cDiscover Weekly\u201d",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By limiting playlist creation",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By requiring premium accounts for recommendations",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3864,
+                    "question": "Which tool is useful for analyzing user research data?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Affinity Mapping",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "HTML and CSS",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "High-fidelity prototyping",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "CSS Grid",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3891,
+                    "question": "What key problem did Figma solve in the UX design industry?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Lack of AI automation",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Difficulty in offline collaboration",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Challenges in version control and team collaboration",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "The absence of wireframing tools",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3869,
+                    "question": "What is the role of personas in UX research?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "To test prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "To represent different user types based on research data",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "To design final UI elements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "To define business objectives",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3871,
+                    "question": "What is one key reason why the Discover phase is important?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "It speeds up the development process",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "It helps in making data-driven design decisions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "It focuses only on the business objectives",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "It eliminates the need for user testing",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3909,
+                    "question": "What is a design system?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A tool used to test code",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "A collection of reusable UI components and guidelines",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "A wireframing technique",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "A project management tool",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3865,
+                    "question": "Empathy maps are used to:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Create wireframes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Understand user emotions, thoughts, and behaviors",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Define the final design layout",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Develop backend code",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3933,
+                    "question": "What UX challenge did Airbnb need to overcome?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Making property listings shorter",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Improving trust between hosts and guests",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Limiting user reviews",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Removing filters from search",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3918,
+                    "question": "What key UX strategy helped Duolingo improve user retention?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Removing gamification elements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Implementing streaks, rewards, and leaderboards",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Increasing lesson lengths",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Limiting free users\u2019 access",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3912,
+                    "question": "Which platform is widely used by organizations to manage their design systems?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "WordPress",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Figma",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Google Docs",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Excel",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3861,
+                    "question": "The Define phase in UX design focuses on:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Creating a final product design",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Generating design solutions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Synthesizing research insights into a clear problem statement",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Writing marketing content for the product",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3951,
+                    "question": "How does LinkedIn\u2019s UX cater to professional networking?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A structured profile system with endorsements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Mandatory job applications",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No messaging feature",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No ability to customize profiles",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3888,
+                    "question": "Which UX design tool is widely known for enabling real-time collaboration?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Sketch",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Figma",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Photoshop",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Balsamiq",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3923,
+                    "question": "Why is Figma considered an industry standard for UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Its exclusive focus on UI animations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Its expensive pricing model",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Its ability to enable seamless teamwork",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Its lack of cross-platform compatibility",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3895,
+                    "question": "Confirmation bias in UX design can lead to:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Exploring diverse perspectives",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Prioritizing information that supports preexisting beliefs",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Conducting extensive usability testing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Ensuring inclusive design practices",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3948,
+                    "question": "How does Amazon improve product discoverability?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Personalized recommendations and smart search filters",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Only showing top-selling products",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Removing customer reviews",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No product categorization",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3887,
+                    "question": "Which of the following is not a type of prototyping method?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Paper prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Digital prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Functional prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Marketing prototypes",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3867,
+                    "question": "Which framework helps UX designers summarize user research findings?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "SWOT analysis",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Journey mapping",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "CSS framework",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Bootstrap",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3892,
+                    "question": "How did Duolingo enhance user engagement through UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By removing all gamification elements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By incorporating reward systems and interactive challenges",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By restricting content accessibility",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By using only text-based lessons",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3902,
+                    "question": "What is a wireframe?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A final version of a web design",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "A low-fidelity representation of a layout structure",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "A type of database schema",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "A high-resolution image of a UI",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3931,
+                    "question": "Which UX feature helps Uber users feel safer?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Estimated fare display",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Trip-sharing with friends",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Mandatory driver tips",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No driver ratings",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3946,
+                    "question": "How does YouTube improve accessibility?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By offering automatic captions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By removing volume control",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By limiting playback speed options",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By restricting subtitles to select videos",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3908,
+                    "question": "Why is rapid prototyping important in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "It increases development costs",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "It helps catch usability flaws early",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "It eliminates the need for usability testing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "It removes the need for wireframes",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3889,
+                    "question": "Which tool is primarily used for interactive animations in UX prototyping?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Miro",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Adobe XD",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Notion",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "PowerPoint",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3926,
+                    "question": "What small UX feature enhances Spotify\u2019s user experience?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Mandatory long advertisements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "A complex search bar",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Micro-interactions such as animated feedback",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Limited download features",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3868,
+                    "question": "The Discover phase involves gathering information from:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Only stakeholders",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Only designers",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Various user research methods and stakeholders",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Online articles only",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3872,
+                    "question": "Which of the following is NOT a characteristic of a good problem statement?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "It is user-centered",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "It is based on assumptions rather than research",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "It is specific and actionable",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "It provides clarity to the design process",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3937,
+                    "question": "What accessibility feature is a major UX improvement in Google Maps?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Dark mode",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Wheelchair-accessible routes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Removing location search",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No voice-guided navigation",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3890,
+                    "question": "AI-powered wireframing tools such as Uizard are beneficial because they:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Replace designers completely",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Reduce the need for usability testing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Automate and accelerate early-stage design",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Focus solely on aesthetic improvements",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3914,
+                    "question": "What should designers focus on when delivering a final UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Visual appeal only",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Usability and accessibility",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Ignoring feedback to stay original",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Making as many changes as possible before launch",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3939,
+                    "question": "What UX strategy helped TikTok grow rapidly?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "An advanced content recommendation algorithm",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "A complex interface",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Longer video durations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No engagement features",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3949,
+                    "question": "What UX feature enhances Amazon\u2019s checkout experience?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "One-click purchase",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Mandatory multiple steps",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No cart preview option",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No saved payment methods",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3870,
+                    "question": "In the Define phase, a \u201cHow Might We\u201d statement is used to:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Frame the problem as an opportunity",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Generate wireframes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Conduct usability tests",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Build front-end interfaces",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3928,
+                    "question": "Which Slack feature enhances team collaboration?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Threaded conversations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Hidden message history",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No file-sharing capabilities",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Lack of third-party integrations",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3885,
+                    "question": "What is the main difference between low-fidelity and high-fidelity wireframes?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Low-fidelity wireframes include colour and branding, while high-fidelity does not",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "High-fidelity wireframes are interactive, while low-fidelity focuses on layout",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Low-fidelity wireframes are developed after high-fidelity ones",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "High-fidelity wireframes are created for brainstorming sessions",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3881,
+                    "question": "What is the primary focus of the Design Thinking process?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Following a strict design methodology",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Creating user-centered solutions through iterative problem-solving",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Designing only for business requirements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Ignoring user research to focus on aesthetics",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3957,
+                    "question": "What is one of the biggest UX strengths of WhatsApp?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "End-to-end encryption and simple messaging interface",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Mandatory ads before sending messages",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No group messaging feature",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Complicated navigation with unnecessary steps",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3950,
+                    "question": "What makes Instagram\u2019s UX highly engaging?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Endless scroll and interactive stories",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "No content discovery features",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Complicated posting process",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Limited engagement options",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3930,
+                    "question": "What was Uber\u2019s biggest UX innovation?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Ride-sharing suggestions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Real-time driver tracking",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Calling cabs through SMS",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Mandatory cash payments",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3938,
+                    "question": "What makes Google Maps\u2019 UX so effective?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Complicated UI",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Clear visual hierarchy and intuitive icons",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Manual address input only",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No route optimization",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3886,
+                    "question": "Why are prototypes important in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "They replace the need for wireframes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "They allow user testing before final development",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "They are only needed for mobile applications",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "They ensure the product is ready for coding immediately",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3866,
+                    "question": "A key output of the Define phase is:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A prototype",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "A high-fidelity design",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "A clear and concise problem statement",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "A business plan",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3896,
+                    "question": "What is anchoring bias in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "The tendency to overestimate the importance of recent data",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "The over-reliance on initial information when making decisions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "The bias towards designing only for power users",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "The preference for aesthetically pleasing designs over functional ones",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3954,
+                    "question": "What UX feature helped Twitter improve user engagement?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Infinite scrolling with personalized content",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Removing trending topics",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Making tweets longer than 5000 characters",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Hiding likes and retweets",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3956,
+                    "question": "What UX element makes Pinterest\u2019s experience visually engaging?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "A grid-based layout optimized for browsing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "No image previews",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Limited search functionality",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No ability to save pins",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3905,
+                    "question": "What is the main advantage of using a UX flow chart?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "It helps in creating high-fidelity prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "It ensures smooth communication with developers",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "It eliminates the need for wireframes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "It reduces the cost of software development",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3882,
+                    "question": "The Crazy 8s ideation technique involves:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Eight designers working together on a concept",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Sketching eight different ideas in eight minutes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Testing eight user prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Brainstorming eight solutions per team",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3910,
+                    "question": "How do design systems improve UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "By ensuring consistency across products",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "By eliminating the need for prototyping",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "By making UI designs unique in every project",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "By replacing the need for usability testing",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3932,
+                    "question": "How did Uber reduce friction in booking rides?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Removed car options",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Limited payment methods",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Allowed one-click booking with saved locations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Removed GPS tracking",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3904,
+                    "question": "UX flow charts are used to:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Illustrate user navigation and decision points",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Define colour schemes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Replace wireframes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Conduct A\/B testing",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3879,
+                    "question": "What is the primary goal of the \u201cDream & Design\u201d phase in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "To develop final high-fidelity designs",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "To create a functional prototype",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "To generate ideas and conceptualize solutions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "To conduct user testing",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3883,
+                    "question": "What does the SCAMPER technique help with?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Conducting usability tests",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Evaluating competitors\u2019 designs",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Modifying and improving ideas through structured prompts",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Ensuring accessibility in UX design",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3884,
+                    "question": "Which of the following is not a key component of storyboarding in UX?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Sketching the user journey",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Defining key interaction points",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Writing full-length product descriptions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Identifying pain points before designing solutions",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3880,
+                    "question": "Which of the following is not typically a part of the \u201cDream & Design\u201d phase?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Wireframing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Coding",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Prototyping",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Ideation",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3894,
+                    "question": "Which of the following is not considered a UX best practice?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Maintaining UI consistency",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Ignoring accessibility standards",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Iterating frequently",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Prioritizing user needs",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3907,
+                    "question": "What is the primary difference between low-fidelity and high-fidelity prototypes?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "High-fidelity prototypes require no user testing",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Low-fidelity prototypes include interactive elements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "High-fidelity prototypes closely resemble the final product",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Low-fidelity prototypes take longer to create",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3877,
+                    "question": "The Define phase helps UX designers by:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Ensuring all research insights are structured into a clear problem statement",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Eliminating the need for user research",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Finalizing the UI design",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Conducting A\/B testing",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3893,
+                    "question": "A common pitfall in UX design is:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Frequent iteration based on user feedback",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Ignoring technical feasibility during ideation",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Designing with accessibility in mind",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Conducting usability tests before finalizing prototypes",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3920,
+                    "question": "What feature did Duolingo introduce to form a habit loop?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "AI-powered tutors",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Monthly subscriptions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Streak tracking",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Offline learning",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3924,
+                    "question": "What is the main UX feature that helps Spotify recommend music?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "User-selected playlists",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Machine learning-based recommendations",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Manual categorization of songs",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Fixed playlists",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3929,
+                    "question": "What makes Slack\u2019s UX design user-friendly?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Cluttered UI",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Ability to integrate with multiple apps",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Only supporting text-based messaging",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No notifications",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3935,
+                    "question": "What key UX feature makes booking easier on Airbnb?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Lengthy sign-up process",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Instant booking option",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "No search filters",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "No price comparison",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3913,
+                    "question": "Which of the following tools facilitates developer handoff in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Zeplin",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Illustrator",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Canva",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Trello",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3911,
+                    "question": "Which of the following is NOT a benefit of using a design system?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Faster design workflows",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Better alignment between teams",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Increased inconsistency in design elements",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Enhanced scalability for future iterations",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3859,
+                    "question": "What is the primary goal of the Discover phase in UX design?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "To create wireframes and prototypes",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "To understand user needs, pain points, and behaviors",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "To design the final user interface",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "To test the final product with users",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3921,
+                    "question": "What makes Figma different from traditional design software?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "It only works offline",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "It allows real-time collaboration in the cloud",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "It requires installation on multiple devices",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "It does not support vector design",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3955,
+                    "question": "How does Apple\u2019s UX design philosophy differ from competitors?",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Focus on simplicity and intuitive interactions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Complex UI requiring extensive training",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Lack of consistency across devices",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Limited user control over settings",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3898,
+                    "question": "Availability heuristic in UX design refers to:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Using the most readily available examples to make design decisions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Ensuring that a product is available on multiple devices",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Prioritizing only the most recently collected user data",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Designing exclusively based on stakeholder preferences",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3873,
+                    "question": "The Discover phase primarily involves:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Ideation and brainstorming",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Conducting user research and collecting insights",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Creating final UI designs",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Writing front-end code",
+                            "attempted": 0
+                        }
+                    ]
+                },
+                {
+                    "question_id": 3863,
+                    "question": "The problem statement in the Define phase should be:",
+                    "question_image": [],
+                    "question_type": "MCQ",
+                    "question_type_id": 1,
+                    "response_medium": null,
+                    "negative_marks": 0,
+                    "marks": 1,
+                    "attempted": 1,
+                    "difficulty_level": "easy",
+                    "time_taken": 0,
+                    "options": [
+                        {
+                            "option_id": 1,
+                            "option_statement": "Open-ended and broad",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 2,
+                            "option_statement": "Based on the designer\u2019s assumptions",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 3,
+                            "option_statement": "Specific, clear, and user-focused",
+                            "attempted": 0
+                        },
+                        {
+                            "option_id": 4,
+                            "option_statement": "Focused only on business goals",
+                            "attempted": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "error": []
+}

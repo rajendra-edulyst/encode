@@ -1,0 +1,360 @@
+.container {
+  align-self: stretch;
+  height: 109px;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.container2,
+.domain1 {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.domain1 {
+  width: 336px;
+  border-radius: 10px;
+  background-color: #323232;
+  flex-direction: column;
+  padding: 16px;
+  box-sizing: border-box;
+  gap: 16px;
+  z-index: 1;
+}
+.container2 {
+  gap: 12px;
+}
+.containerIcon {
+  height: 48px;
+  width: 48px;
+  border-radius: 10px;
+  display: none;
+}
+.container3,
+.text {
+  align-items: flex-start;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.text {
+  width: 56.2px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: rgba(43, 127, 255, 0.1);
+  display: none;
+  padding: 2px 6px 2px 8px;
+  box-sizing: border-box;
+  color: #51a2ff;
+  font-family: Arial;
+}
+.primary {
+  position: relative;
+  line-height: 16px;
+}
+.spatialExperience {
+  position: relative;
+  font-size: 16px;
+}
+.interiorDesignExhibitionContainer {
+  position: relative;
+}
+.interiorDesignExhibitionDes {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 16px;
+}
+.container4 {
+  width: 305px;
+  height: 36px;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  flex-shrink: 0;
+  font-size: 14px;
+  color: #9a9a9a;
+}
+.container5 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.div {
+  position: relative;
+  color: #fff;
+}
+.container6 {
+  align-self: stretch;
+  border-radius: 22369600px;
+  background-color: #5a5a5a;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container7 {
+  width: 239px;
+  height: 8px;
+  position: relative;
+  border-radius: 22369600px;
+  background: linear-gradient(90deg, #2b7fff, #9810fa);
+}
+.container8,
+.domain3 {
+  align-items: flex-start;
+}
+.domain3 {
+  border-radius: 10px;
+  background-color: #323232;
+  display: none;
+  flex-direction: column;
+  padding: 16px;
+  gap: 16px;
+  z-index: 2;
+  flex-shrink: 0;
+  color: #51a2ff;
+}
+.container8 {
+  display: flex;
+  gap: 12px;
+}
+.containerIcon2 {
+  height: 48px;
+  width: 48px;
+  border-radius: 10px;
+}
+.text2 {
+  border-radius: 4px;
+  background-color: rgba(43, 127, 255, 0.1);
+  display: none;
+  align-items: flex-start;
+  padding: 2px 6px 2px 8px;
+  font-family: Arial;
+}
+.heading3 {
+  width: 140.9px;
+  height: 24px;
+  position: relative;
+  font-size: 16px;
+  color: #fff;
+}
+.productDesign {
+  position: absolute;
+  top: -1.7px;
+  left: 0;
+  flex-shrink: 0;
+}
+.paragraph {
+  width: 173px;
+  height: 20px;
+  position: relative;
+  font-size: 14px;
+  color: #9a9a9a;
+}
+.coursesCompleted {
+  position: absolute;
+  top: -1.3px;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+}
+.container10 {
+  width: 305px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 14px;
+  color: #9a9a9a;
+}
+.container13 {
+  width: 239px;
+  height: 8px;
+  position: relative;
+  border-radius: 22369600px;
+  background: linear-gradient(90deg, #02b1de, #1465f9);
+}
+.container14 {
+  width: 337px;
+  height: 165.3px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #323232;
+  border: 0.7px solid #5a5a5a;
+  box-sizing: border-box;
+  display: none;
+  z-index: 3;
+  flex-shrink: 0;
+  color: #00d3f3;
+  font-family: Arial;
+}
+.container15 {
+  position: absolute;
+  top: 20.7px;
+  left: 20.7px;
+  width: 223.4px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+.container16 {
+  height: 72px;
+  flex: 1;
+  position: relative;
+}
+.heading32,
+.text3 {
+  position: absolute;
+  left: 0;
+}
+.text3 {
+  top: 0;
+  border-radius: 4px;
+  background-color: rgba(0, 184, 219, 0.1);
+  display: flex;
+  align-items: flex-start;
+  padding: 2px 5px 2px 8px;
+}
+.heading32 {
+  top: 24px;
+  width: 163.4px;
+  height: 24px;
+  font-size: 16px;
+  color: #fff;
+}
+.frontendDevelopment {
+  position: absolute;
+  top: -1.7px;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+}
+.paragraph2 {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 163.4px;
+  height: 20px;
+  font-size: 14px;
+  color: #99a1af;
+}
+.coursesCompleted2 {
+  position: absolute;
+  top: -1.3px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 141px;
+  flex-shrink: 0;
+}
+.container17 {
+  position: absolute;
+  top: 108.7px;
+  left: 20.7px;
+  width: 298.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 14px;
+  color: #99a1af;
+}
+.container18 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.text4 {
+  height: 20px;
+  width: 53.2px;
+  position: relative;
+}
+.progress3 {
+  position: absolute;
+  top: -1.3px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+}
+.text5 {
+  height: 20px;
+  width: 26.6px;
+  position: relative;
+  color: #fff;
+}
+.container20 {
+  width: 134px;
+  height: 8px;
+  position: relative;
+  border-radius: 22369600px;
+  background: linear-gradient(90deg, #00b8db, #155dfb);
+}
+.proficiencyLabels {
+  border-radius: 0 0 0 10px;
+  background-color: #00a8e9;
+  display: flex;
+  align-items: flex-start;
+  padding: 2px 8px;
+  z-index: 1;
+  margin-top: -109px;
+  font-size: 20px;
+}
+.p,
+.proficiencyLabels,
+.proficiencyLabelsChild {
+  position: relative;
+  flex-shrink: 0;
+}
+.proficiencyLabelsChild {
+  height: 32px;
+  width: 30px;
+  border-radius: 0 0 0 10px;
+  background-color: #00a8e9;
+  display: none;
+}
+.p {
+  margin: 0;
+  height: 28px;
+  width: 14px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 2;
+}
+@media screen and (max-width: 450px) {
+  .container,
+  .container4 {
+    height: auto;
+  }
+  .container5 {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .p {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,420 @@
+.ccatLandingPage {
+  width: 100%;
+  position: relative;
+  background-color: #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 145.1px;
+  box-sizing: border-box;
+  gap: 3px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+.abstractFlowShapeWithRainb {
+  width: 1224.8px;
+  height: 515.4px;
+  position: relative;
+  transform: rotate(-23.9deg);
+  display: none;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.abstractFlowShapeWithRainb2 {
+  width: 1224.8px;
+  height: 515.4px;
+  transform: rotate(112.6deg);
+  max-width: 100%;
+}
+.abstractFlowShapeWithRainb2,
+.abstractFlowShapeWithRainb3,
+.asset13 {
+  position: relative;
+  display: none;
+  flex-shrink: 0;
+}
+.abstractFlowShapeWithRainb3 {
+  align-self: stretch;
+  height: 352.2px;
+  transform: rotate(126.5deg);
+}
+.asset13 {
+  width: 265px;
+  height: 378px;
+  object-fit: cover;
+}
+.ccatLandingPageInner {
+  width: 1028px;
+  justify-content: center;
+  padding: 0 20px 69px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.ccatLandingPageInner,
+.creativityCognitionAndMinParent,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  width: 828px;
+  flex-direction: column;
+  gap: 32px;
+}
+.creativityCognitionAndMinParent {
+  align-self: stretch;
+  position: relative;
+  isolation: isolate;
+}
+.creativityCognitionAndContainer {
+  height: 303px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+  flex-shrink: 0;
+}
+.blankLine {
+  font-size: 32px;
+}
+.cciMeasuresYour {
+  font-size: 24px;
+}
+.userInterfaceBackground1Icon {
+  width: 758px;
+  position: absolute;
+  margin: 0 !important;
+  right: -512px;
+  bottom: -236px;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 3;
+  flex-shrink: 0;
+}
+.arrowOutwardParent {
+  cursor: pointer;
+  border: 0;
+  padding: 24px 26px;
+  background-color: #ffec00;
+  width: 168px;
+  height: 120px;
+  border-radius: 15.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  gap: 8px;
+}
+.arrowOutwardGroup:hover,
+.arrowOutwardParent:hover {
+  background-color: #e6d400;
+}
+.arrowOutwardIcon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 30.7px;
+  position: relative;
+  max-height: 100%;
+}
+.startNow {
+  margin: 0;
+  position: relative;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Jacques Pro";
+  color: #000;
+  text-align: left;
+}
+.ccatLandingPageChild {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 143px 21px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.ccatLandingPageChild,
+.frameGroup,
+.targetTitle {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  width: 1241px;
+  flex-direction: column;
+  gap: 100px;
+}
+.targetTitle {
+  align-self: stretch;
+  padding: 0 105px 230px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.whoShouldTakeContainer {
+  height: 92px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.assetContainer {
+  width: 973px;
+  display: flex;
+  align-items: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  position: relative;
+  isolation: isolate;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 36px;
+  color: #f5ed2b;
+  font-family: "Jacques Pro";
+}
+.asset6Icon {
+  height: 160px;
+  width: 162px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -28px;
+  left: 305px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+.designerProfile,
+.designerProfileWrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.designerProfileWrapper {
+  flex: 1;
+  justify-content: flex-end;
+  flex-shrink: 0;
+}
+.designerProfile {
+  width: 446px;
+  flex-direction: column;
+  gap: 18px;
+}
+.aspiringDesigners {
+  margin: 0;
+  width: 347px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.forThosePursuing {
+  position: relative;
+  font-size: 16px;
+  color: #fff;
+}
+.component8 {
+  width: 68px;
+  height: 799px;
+  position: relative;
+  box-shadow: 0 1px 4px rgba(39, 52, 84, 0.25);
+  border-radius: 0 12px 12px 0;
+  background-color: #1d1d1d;
+  border-right: 0.5px solid rgba(33, 36, 39, 0.2);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.rectangleParent {
+  position: absolute;
+  width: calc(100% - 6px);
+  top: 41px;
+  right: 3px;
+  left: 3px;
+  height: 349px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: rgba(127, 188, 66, 0.2);
+  width: 62px;
+  height: 46px;
+}
+.blue {
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  width: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+}
+.blueChild {
+  object-fit: cover;
+}
+.blueChild,
+.blueInner {
+  width: 30px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.eventsIcon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 24px;
+  position: relative;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+.blueChild2 {
+  width: 165px;
+  height: 24px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.frameIcon2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 9px;
+  left: 24px;
+  width: 20px;
+  height: 20px;
+}
+.frameContainer,
+.frameSection {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameSection {
+  width: 1192px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: "Jacques Pro";
+}
+.frameContainer {
+  width: 992px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.arrowOutwardGroup,
+.thinkYouveGotTheCreativeWrapper {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.arrowOutwardGroup {
+  cursor: pointer;
+  border: 0;
+  padding: 24px 26px;
+  background-color: #ffec00;
+  height: 120px;
+  width: 168px;
+  border-radius: 15.3px;
+  align-items: center;
+  gap: 8px;
+  z-index: 2;
+}
+.thinkYouveGotTheCreativeWrapper {
+  width: 600px;
+  align-items: flex-start;
+  padding: 15px 0 0;
+  max-width: 100%;
+}
+.thinkYouveGotContainer {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-height: 90px;
+  z-index: 1;
+}
+@media screen and (max-width: 1050px) {
+  .ccatLandingPageChild {
+    padding-bottom: 93px;
+    box-sizing: border-box;
+  }
+  .aspiringDesigners {
+    font-size: 29px;
+  }
+  .frameContainer {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .thinkYouveGotContainer {
+    font-size: 26px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .ccatLandingPageInner {
+    padding-bottom: 45px;
+    box-sizing: border-box;
+  }
+  .ccatLandingPageChild {
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+  .frameGroup {
+    gap: 50px;
+  }
+  .targetTitle {
+    padding-left: 52px;
+    padding-right: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frameParent {
+    gap: 16px;
+  }
+  .creativityCognitionAndContainer {
+    font-size: 19px;
+  }
+  .startNow {
+    font-size: 16px;
+  }
+  .frameGroup {
+    gap: 25px;
+  }
+  .targetTitle {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .whoShouldTakeContainer {
+    font-size: 19px;
+  }
+  .aspiringDesigners {
+    font-size: 22px;
+  }
+  .thinkYouveGotContainer {
+    font-size: 19px;
+  }
+}
